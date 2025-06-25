@@ -1,4 +1,4 @@
-# Task_24_72_-HW-04-.py
+# Task_24_7_2_-HW-04-.py
 QAP224_PetFriensTesting
 
 Тестовый проект к 24 модулю SkillFactory курса QAP
